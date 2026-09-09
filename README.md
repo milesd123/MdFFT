@@ -1,6 +1,6 @@
-# MiniFFT
+# MdFFT
 
-MiniFFT is my learning-focused Fourier transform project with three layers:
+MdFFT is my learning-focused Fourier transform project with three layers:
 
 1. a direct `O(N^2)` DFT in modern C++;
 2. an iterative radix-2 `O(N log N)` FFT/IFFT in C++;
